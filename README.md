@@ -11,3 +11,7 @@ Apuntes de reparación y mantenimiento de Computadoras Intecap
 ## CONOCIENDO LA BIOS
 
 <p align="center"><a href="https://prezi.com/fn6qlyoj6g60/conociendo-la-bios/" target="blank"><img src="https://i.ibb.co/wLpJfqp/BIOS.jpg" width="300"></a></p>
+
+# Phoenix BIOS Simulator
+<p align="center"><a href="https://www.grs-software.de/sims/bios/phoenix/pages/" target="blank"><img src="https://i.ibb.co/2NN8jcn/bios-simulator.jpg" width="400"></a></p>
+
