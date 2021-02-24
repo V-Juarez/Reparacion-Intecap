@@ -1,5 +1,5 @@
 # Reparacion-Intecap
-Apuntes de reparación y mantenimiento de Computadoras Intecap
+  ## Apuntes de reparación y mantenimiento de Computadoras Intecap
 
 <p align="center"><a href="" target="blank"><img src="https://i.ibb.co/PwPRK9T/intecap-logo.png" width="400"></a></p>
 
@@ -55,6 +55,14 @@ Estos conectores dan servicio de datos y alimentación eléctrica a los conector
 
 ## Puerto RJ-45
 
+Interfaz física comúnmente utilizada para conectar redes de computadoras con cableado estructurado (categorías 4, 5, 5e, 6, 6a, 7, 7a y 8). Posee ocho pines o conexiones eléctricas, que normalmente se usan como extremos de cables de par trenzado (UTP).
+
+La sigla RJ-45 significa (“Registred Jack 45“) ó Conector 45 registrado. Es un conector de forma especial con 8 terminales, que se utilizan para interconectar computadoras y generar redes de datos de área local (LAN – red de computadoras cercanas interconectadas entre sí). Se les llama puertos porque permiten la transmisión de datos entre un la red (periférico), con las computadoras.
+
+Se utilizan para interconectar computadoras en redes locales (LAN), esto es, dentro de edificios, escuelas, hospitales, bibliotecas, cafés Internet etc. También se puede utilizar para realizar conexiones directas entre una computadora y otra, mediante una pequeña variante el la forma de conectar los cables.
+
+![](https://i.ibb.co/nCyYTLp/200px-Rj-45-on-netcard.jpg)
+
 ## Alimentador de CPU 12v / Conector Auxiliar 12v ATX
 
 Este conector es el encargado de suministrar corriente al procesador. Requiere alimentación directa a +12 V (los anteriores procesadores solo requerían alimentación a +5 V). Suele ubicarse en la parte superior de la placa base, generalmente muy cerca de donde se encuentra el socket del procesador.
@@ -79,17 +87,33 @@ Todas las placas base incluyen un pequeño bloque de ROM (Memoria de solo Lectur
 
 El BIOS del sistema es un chip ROM en la placa base que se utiliza durante la rutina de arranque (proceso de arranque) para comprobar el sistema y prepararse para ejecutar el hardware. La BIOS se almacena en un chip ROM porque la ROM retiene la información incluso cuando no se suministra energía al ordenador.
 
+![](https://i.ibb.co/qCxMM9p/actualizar-bios-1.jpg)
+
 ## Puertos VGA
+
+Video Graphics Array (VGA) o Matriz de gráficos de vídeo se utiliza para denominar a: Una pantalla estándar analógica de computadora. La resolución 640 × 480 píxeles. El conector de 15 contactos D subminiatura.
+
+![](https://i.ibb.co/crbfbSK/puerto-serie.jpg)
 
 ## Puertos de Audio-Sonido
 
+Puerto de audio: Permite conectar dispositivos de audio a la computadora y videos juegos bajo control de un programa informativo. Tiene la función de capturar audio procedente del exterior, grabar señales de audio, reproducir sonidos hacia bocinas y capturar la señal del micrófono.
+
+![](https://i.ibb.co/2hRMTBk/puerto-de-audio.jpg)
+
 ## RAM
+
+Es la memoria de corto plazo del computador. Su función principal es recordar la información que tienes en cada una de las aplicaciones abiertas en el computador, mientras este se encuentre encendido. Cuanta más memoria RAM tenga tu computador, más cosas podrás hacer al mismo tiempo.
+
+![](https://i.ibb.co/3mffPgd/fAsZCuZ.jpg)
 
 ## Puertos PS2
 
 La mayoría de los teclados y ratones ahora se conectan a través de USB, aun hay algunos modelos que utilizan el viejo conector redondo PS/2, que todavía se puede encontrar incluso en las nuevas placas base. Una conexión clásica que antiguamente se encontraban repetida, dos veces en la placa base y ahora con algo de suerte en una sola.
 
 ![](https://i.ibb.co/NSnz7XT/Z370-AORUS-ULTRA-GAMING-2-0-REVIEW18.jpg)
+
+![](https://i.ibb.co/6gwS9dF/puerto-ps2.jpg)
 
 ## Zócalo para CPU
 
@@ -111,6 +135,8 @@ A partir de Intel Sandy Bridge en 2011, este componente de placa base ya no est�
 
 Se encarga de controlar las transferencias entre el procesador y la memoria RAM, por lo que se encuentra físicamente cerca del procesador. A veces se le llama GMCH, por Graphic and Memory Controller Hub.
 
+![](https://i.ibb.co/0mjVFRZ/w5g38.jpg)
+
 ## Chip-Set Sur
 
 Cconocido como Hub de Controlador de Entrada / Salida (ICH).
@@ -118,6 +144,8 @@ Cconocido como Hub de Controlador de Entrada / Salida (ICH).
 Es un chipset que permite a la CPU comunicarse con ranuras PCI, ranuras PCI-Express x1 (tarjetas de expansión), conectores SATA (discos duros, unidades ópticas), puertos USB (dispositivos USB), puertos Ethernet y audio integrado.
 
 Maneja las comunicaciones entre los dispositivos periféricos más lentos. También se le llama ICH (I/O Controller Hub). El término “puente” se utiliza generalmente para designar un componente que conecta dos buses.
+
+![](https://i.ibb.co/0mjVFRZ/w5g38.jpg)
 
 ## Pila Alimentadora de CNOS
 
@@ -133,7 +161,9 @@ Otros datos importantes que se guardan en la memoria CMOS son la hora y la fecha
 
 ## Conectores USB Frontales
 
+**conector de 4 pines:** simplemente conectamos el cable al conector que generalmente se señala como **F_USB1 (o F_USB2 o F_USB3)**
 
+![](https://i.ibb.co/sy0yHBt/F-USB1.jpg)
 
 ## Conectores del Panel Frontal
 
@@ -175,15 +205,31 @@ Todos los conectores tienen en el interior una pestaña en forma de «L» que ma
 
 ## Conector IDE
 
+IDE (Integrated Drive Electronics)  Conocido también como ATA (AdvancedTechnology Attachment) controla los dispositivos de almacenamiento masivo de datos, como los discos duros y añade además dispositivos como, las unidades CD-ROM.
+
+La interfaz IDE (Integrated Drive Electronics, electrónica de unidades integradas), se utilizan para conectar a nuestro ordenador discos duros y grabadoras o lectores de CD/DVD y siempre ha destacado por su bajo coste y, últimamente, su alto rendimiento equiparable al de las unidades SCSI, que poseen un coste superior.
+
+![](https://i.ibb.co/Xy95Rm5/43-gigabyte-ga-ma790xt-ud4p.jpg)
+
 ## Conectores PCI Express
 
  Las ranuras PCI Express vienen en tres tamaños y clasificaciones de velocidad: x1, x4 y x16, para adaptarse a diferentes tipos de tarjetas.
  
  Todas las placas base tienen sonido incorporado, y muchas CPUs tienen componentes gráficos integrados. Sin embargo, los ordenadores construidos para jugar a menudo tienen potentes tarjetas gráficas dedicadas en una ranura PCI Express x16, y algunos audiófilos prefieren tarjetas de sonido dedicadas para mejorar la calidad de audio, aunque en los últimos lanzamientos de placas bases se ha mejorado notablemente la calidad de la tarjeta de sonido integrada: condensadores nichicon, protección EMI, buenos chips dedicados y sobre todo un software muy desarrollado.
 
-## Conectores PCI
+![](https://i.ibb.co/541jnWd/PCI-Express-1000x600.jpg)
+
+## Conector PCI
 
 La ranura PCI es para tarjetas de expansión más antiguas y han sido siempre compatibles con tarjetas de sonido, tarjetas de red, tarjetas de conexión. Aunque cada vez es menos habitual verlas en placas bases de gama media y alta, donde predominan los slots PCI Express.
+
+![](https://i.ibb.co/GQgz8tx/pci.png)
+
+**Como Identificar Conetores**
+
+![](https://i.ibb.co/3F2dxL4/pci03.jpg)
+
+[IT-ESSENTIALS Essentials (ITE v6.0) | Tarjetas de Reapso](https://quizlet.com/345336088/it-essentials-essentials-ite-v60-respuestas-al-examen-final-100-actualizacion-completa-2016-flash-cards/)
 
 ### Enlaces 
 - [Conectores de placa base](https://hardzone.es/2018/02/18/conectores-placa-base/)
