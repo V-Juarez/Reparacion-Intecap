@@ -8,6 +8,10 @@ Apuntes de reparación y mantenimiento de Computadoras Intecap
 
 <a href="https://drive.google.com/file/d/11YQMDnI8DKbqtECfa7nF2Bzq7xshEfRg/view?usp=sharing" target="_blank">Hoja de vida de equipos</a>
 
+- [Hoja de Vida-de-equipo-word](https://drive.google.com/file/d/1Oz6irOvSOuCs7FgCMXXDKB7y_G2rNSA6/view?usp=sharing)
+
+- [Hoja de vida-de-equipo.pdf](https://drive.google.com/drive/u/1/folders/1J8Y7ZgY4KGC6sXsqQJLT59fD_NfqEcyv)
+
 ## CONOCIENDO LA BIOS
 
 <p align="center"><a href="https://prezi.com/fn6qlyoj6g60/conociendo-la-bios/" target="blank"><img src="https://i.ibb.co/wLpJfqp/BIOS.jpg" width="300"></a></p>
