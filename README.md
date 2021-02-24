@@ -229,9 +229,10 @@ La ranura PCI es para tarjetas de expansión más antiguas y han sido siempre co
 
 ![](https://i.ibb.co/3F2dxL4/pci03.jpg)
 
-[IT-ESSENTIALS Essentials (ITE v6.0) | Tarjetas de Reapso](https://quizlet.com/345336088/it-essentials-essentials-ite-v60-respuestas-al-examen-final-100-actualizacion-completa-2016-flash-cards/)
+# Repaso de Contenidos
+[IT-ESSENTIALS Essentials (ITE v6.0) | Tarjetas de Repaso](https://quizlet.com/345336088/it-essentials-essentials-ite-v60-respuestas-al-examen-final-100-actualizacion-completa-2016-flash-cards/)
 
-### Enlaces 
+## Enlaces 
 - [Conectores de placa base](https://hardzone.es/2018/02/18/conectores-placa-base/)
 
 - [Componentes / placa base](https://www.profesionalreview.com/2018/11/04/componentes-de-una-placa-base/#Puertos_USB)
